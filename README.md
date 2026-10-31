@@ -1,4 +1,4 @@
-# Privacy Policy — PPco. API
+# Privacy Policy — Practical Purpose Co. (PPco. API)
 
 **Operator:** Practical Purpose Co.  
 **Effective date:** October 31, 2026  
