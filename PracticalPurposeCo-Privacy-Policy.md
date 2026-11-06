@@ -1,66 +1,27 @@
 # Privacy Policy — Practical Purpose Co. (PPco. API)
 
 **Operator:** Practical Purpose Co.  
-**Effective date:** October 31, 2026  
-**Contact:** Send a message using **Contact** at [our Etsy shop](https://www.etsy.com/shop/PracticalPurposeCo).
+**Effective date:** November 5, 2026  
+**Contact:** Use Contact at [our Etsy shop](https://www.etsy.com/shop/PracticalPurposeCo).
 
-## 1. Scope and current status
+## Scope and status
+PPco. API is a proposed internal, single-operator Pinterest integration for original product marketing and individually approved Pins for our own business. It is not a public account-management service. Our application was denied and is being corrected; no approved or verified live connection exists. This notice describes intended handling if authorized, implemented and enabled, not built safeguards. Registration alone does not collect Pinterest account data. It is not Etsy's policy or a replacement shop-customer notice.
 
-PPco. API is Practical Purpose Co.'s internal Pinterest integration for preparing original product-marketing content, managing authorized Pins and boards, and reviewing the performance of our own content. It is not a public account-management service and is not offered to Etsy buyers or unrelated Pinterest users.
+## Information and purpose
+Our product facts, original/licensed artwork and photos, locally authored drafts and public Etsy links may prepare three local image/copy drafts per owned product. These are not Pinterest-native drafts. The owner selects each exact image, title, description, destination and board before creation. If authorized and needed, account identifiers, own-Pin/board details and OAuth authorization support identification and original approved creation. No passwords, session cookies, Etsy buyer orders, addresses, card data, private messages or unrelated account information are requested.
 
-The app is being registered and is not yet connected to Pinterest. This notice describes the intended data handling and the limits that will apply when the integration is enabled. Registration alone does not collect Pinterest account data. If the scope or data practices change, we will update this notice before enabling those changes.
+Competitor research/benchmarking, scraping, third-party Pin transformations and post-publication edits are excluded. Trends and analytics are on hold pending permission and implementation.
 
-This is the policy for the internal integration, not Etsy's corporate privacy policy or a replacement for a separate shop-customer privacy notice.
+## Providers and sharing
+Local automation and hosted AI may prepare operator-supplied original/licensed assets under provider terms. Pinterest-returned data and derivatives must not enter hosted AI without Pinterest's permission; credentials stay out of prompts. Actual data flows need verification before use. We do not sell/rent Pinterest information. Approved creation sends selected content to Pinterest subject to its tier/visibility rules; Etsy visitors follow Etsy's policy. Information may be disclosed as required by law. Pinterest, Etsy and GitHub independently process their service data.
 
-## 2. Information used
+## Storage and security
+The intended local integration must keep credentials in an authorized store, out of public code, drafts, prompts and routine logs. No system is completely secure; controls need implementation and testing. Pinterest-returned-data retention is on hold, including research/analytics. Necessary recovery identifiers/receipts need clarification; no exemption is assumed. Own original assets and authored drafts may be kept for review/reuse/recovery, not Pinterest-returned data.
 
-Once the account owner authorizes the integration, it may process the following, limited to the permissions granted and the task being performed:
+## Disconnection and rights
+After connection exists, revoke it in Pinterest and remove local tokens to stop access. Published Pins are not automatically removed; manage them on Pinterest. Contact our Etsy shop for questions, access/correction/deletion requests; requests are verified and addressed as legally required. Controlled information is deleted unless retention is legally required. Direct requests for independently held service data to that service.
 
-- Pinterest account identifiers and profile information needed to identify the authorized business account.
-- Board and Pin information, including identifiers, names, titles, descriptions, destination links, and media references, as needed to manage our own content.
-- Performance metrics made available by Pinterest for our own or expressly authorized account, such as impressions, saves, and outbound clicks.
-- OAuth authorization information, including access and refresh tokens needed to maintain the approved connection.
-- Our own product information, original artwork, product photos, draft copy, and public Etsy listing links supplied by the operator for content preparation.
+## Children and changes
+Not directed to children or intended to collect their personal data. Update this notice to reflect actual practices before processing is enabled or materially changed.
 
-The integration does not request Pinterest passwords or session cookies. It is not intended to collect Etsy buyer orders, delivery addresses, payment-card information, private Pinterest messages, or unrelated users' account information.
-
-## 3. Purpose and authorization
-
-Information is used only to operate the authorized connection, prepare and review our product content, publish individual Pins selected and approved by the account owner, and assess permitted performance information for our own business. Preparing a draft does not itself authorize publication.
-
-The app will request only permissions needed for enabled features. Pinterest's authorization flow controls access; the account owner may decline permissions or disconnect the app. We do not use the integration for unauthorized competitor profiling, automated engagement manipulation, or circumventing platform access restrictions.
-
-## 4. Sharing and service providers
-
-We do not sell or rent Pinterest account information. Content approved for publication is sent to Pinterest and becomes visible according to Pinterest's settings and policies. Visitors who follow an Etsy listing link are subject to Etsy's own privacy practices.
-
-The planned integration may use local automation tools and hosted AI or other technical service providers to help prepare original images and copy. These providers may receive the operator-supplied product information and creative material needed for that work under their own privacy terms. Pinterest access credentials must remain outside model prompts. Information returned by Pinterest's API must not be shared with third parties unless that processing is expressly permitted by Pinterest's terms and the account owner's authorization. Before enabling a connection, the operator must check the actual provider data flows against these limits; this notice does not assert that an unconfigured integration already enforces them.
-
-Information may also be disclosed where required by law. Pinterest, Etsy, and the host of this public policy independently handle information arising from use of their own services under their respective privacy policies.
-
-## 5. Storage, retention, and security
-
-The integration is designed for the operator's local environment. Access credentials must be kept in the authorized credential store and must not be included in public repositories, draft content, or routine logs. Access is limited to the operator and authorized tools acting for the operator. No method of storage or transmission is completely secure.
-
-Pinterest API responses must be fetched when needed, not retained as a general-purpose archive. Pinterest's developer guidelines prohibit storing information accessed through Pinterest Materials except for permitted campaign analytics about our own or expressly authorized accounts. The integration must follow that rule and any applicable technical requirements; an authorization token is maintained only as required by Pinterest's authentication documentation.
-
-Our own original product assets and unpublished copy may be retained by the operator for review, reuse, and recovery. This does not authorize retaining Pinterest-returned account data. Permitted analytics may be kept only while needed for business measurement and must be deleted when no longer needed or when deletion is required by Pinterest or applicable law.
-
-## 6. Disconnection, deletion, and rights
-
-The account owner can revoke access through Pinterest's connected-app controls and remove locally held authorization tokens. Disconnection stops future API access but does not automatically remove Pins already published to Pinterest. The owner can manage those Pins directly on Pinterest.
-
-For questions, access requests, corrections, or deletion requests concerning information handled by this integration, contact Practical Purpose Co. through the Etsy shop link above. We will verify the request as appropriate, respond as required by applicable law, and delete information under our control unless retention is legally required. Requests concerning information independently held by Pinterest, Etsy, or another service must also be directed to that service.
-
-## 7. Children
-
-This internal business tool is not directed to children and is not intended to collect children's personal information.
-
-## 8. Updates and related policies
-
-The effective date above identifies this version. Material changes will be reflected in this public notice before the corresponding new processing begins.
-
-- [Pinterest Privacy Policy](https://policy.pinterest.com/en/privacy-policy)
-- [Pinterest Developer Guidelines](https://policy.pinterest.com/en/developer-guidelines)
-- [Etsy Privacy Policy](https://www.etsy.com/legal/privacy/)
-- [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+[Full public policy](https://dlew42.github.io/practical-purpose-privacy/PracticalPurposeCo-Privacy-Policy.html) · [Pinterest privacy](https://policy.pinterest.com/en/privacy-policy) · [Etsy privacy](https://www.etsy.com/legal/privacy/) · [GitHub privacy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
